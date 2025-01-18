@@ -8,9 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=c4rolanne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=c4rolanne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=c4rolanne&icon=0&color=0)](https://visitcount.itsvg.in)
