@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻   Analista de sistemas e desenvolvedora compartilhando sobre minha jornada e aprendizados em tecnologia<br>🌱   Atualmente aprendendo sobre Java e framework Spring Boot
+👩🏻‍💻   Analista de sistemas e  compartilhando sobre minha jornada e aprendizados em tecnologia<br>🌱   Atualmente aprendendo sobre Java e framework Spring Boot
 
 
 # 💻 Tech Stack: 
